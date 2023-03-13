@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+import 'package:space_image_center/picture_of_the_day/repository/image_of_the_day_repository.dart';
 
 class GenericButton extends StatelessWidget {
   const GenericButton({super.key});
